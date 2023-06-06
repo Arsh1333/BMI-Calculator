@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+form {
+  margin: 100px;
+  border: solid 2px black;
+  background-color: bisque;
+}
+
+p {
+  margin: 20px;
+}
+input {
+  margin: 20px;
+  background-color: #f5f5dc;
+  border: none;
+  border-radius: 50px;
+  width: 80%;
+  height: 40px;
+  text-align: center;
+}
+#btn {
+  border: none;
+  border-radius: 20px;
+  margin: 20px;
+  width: 90px;
+  height: 40px;
+}
+#btn:hover {
+  background-color: #f5f5dc;
+}
+#result {
+  margin: 50px;
+}
